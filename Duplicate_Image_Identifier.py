@@ -1,7 +1,6 @@
 import os
 import hashlib
 
-
 #os.walk(top, topdown=True, onerror=None, followlinks=False)
 #
 #generates the file names in a directory tree by traversing either top down or bottom up.
